@@ -1,0 +1,18 @@
+.item {
+  background-color: pink;
+}
+.item img {
+  height: 100px;
+}
+#user-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.none {
+  display: none;
+}
+.block {
+  display: block;
+}
